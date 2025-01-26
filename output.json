@@ -1,0 +1,77 @@
+[
+    {
+        "category": "Informations sur Licence en Informatique de Gestion - Business Intelligence - Objectifs de la licence**",
+        "question": "Quels sont les objectifs principaux de la licence en Informatique de Gestion spécialité Business Intelligence de l'IHEC Carthage ?",
+        "answer": "Les étudiants acquerront les connaissances nécessaires pour concevoir, configurer et déployer des systèmes d'aide à la décision ainsi que des systèmes de gestion des connaissances, et exploiter les données dans l'entreprise afin de proposer une stratégie décisionnelle."
+    },
+    {
+        "category": "Informations sur Licence en Informatique de Gestion - Business Intelligence - Objectifs de la licence**",
+        "question": "Comment peut-elle aider les étudiants à poursuivre leurs études en Mastère ?",
+        "answer": "La licence permet aux étudiants d'acquérir les bases nécessaires à la poursuite de leurs études en Mastère."
+    },
+    {
+        "category": "Informations sur Licence en Informatique de Gestion - Business Intelligence - Conditions d'accès**",
+        "question": "Quels sont les diplômes de baccalauréat qui sont acceptés pour l'accès à la licence ?",
+        "answer": "Le baccalauréat dans les spécialités suivantes : Sciences économiques et gestion, Mathématiques, Sciences expérimentales, Informatique, Technique."
+    },
+    {
+        "category": "Informations sur Licence en Informatique de Gestion - Business Intelligence - Conditions d'accès**",
+        "question": "Quels sont les critères de sélection des candidats ?",
+        "answer": "Les critères de sélection ne sont pas spécifiés dans le texte."
+    },
+    {
+        "category": "Informations sur Licence en Informatique de Gestion - Business Intelligence - Structure du programme**",
+        "question": "Comment est organisé le programme de licence en Informatique de Gestion spécialité Business Intelligence ?",
+        "answer": "Le programme se compose de 3 semestres de tronc commun et 3 semestres de specialisation en Business Intelligence."
+    },
+    {
+        "category": "Informations sur Licence en Informatique de Gestion - Business Intelligence - Structure du programme**",
+        "question": "Quels sont les semestres du programme ?",
+        "answer": "Les semestres du programme sont :"
+    },
+    {
+        "category": "Informations sur Licence en Informatique de Gestion - Business Intelligence - Pourspectives**",
+        "question": "Quelles sont les options possibles pour les étudiants qui ont obtenu la licence en Informatique de Gestion spécialité Business Intelligence ?",
+        "answer": "Les étudiants peuvent poursuivre des études supérieures en Master, intégrer directement le marché du travail ou exercer différents métiers dans le secteur de l'informatique et de la data."
+    },
+    {
+        "category": "Informations sur LIG-5.pdf - Élaboration de questions sur la Licence en Informatique de Gestion (LIG)**",
+        "question": "Quels sont les objectifs principaux de la Licence en Informatique de Gestion (LIG) ?",
+        "answer": "Les objectifs principaux de la LIG sont d'offrir une formation complète en informatique et gestion, permettant aux étudiants de développer des compétences théoriques et pratiques pour réussir dans le monde des affaires."
+    },
+    {
+        "category": "Informations sur LIG-5.pdf - Description du parcours Business Intelligence**",
+        "question": "Qu'est-ce que le parcours Business Intelligence ?",
+        "answer": "Le parcours Business Intelligence est un programme de formation qui se concentre sur l'analyse et la prise de décision d'entreprise, permettant aux étudiants de développer des compétences en intelligence artificielle, data science et analyse de données."
+    },
+    {
+        "category": "Informations sur LIG-5.pdf - Descriptions des cours et de leurs caractéristiques**",
+        "question": "Quels sont les détails sur le cours \"Techniques de prévision\" (UEF510) ?",
+        "answer": "Le cours \"Techniques de prévision\" est un cours fondamental qui enseigne aux étudiants les techniques d'analyse de données et de prédiction, essentielles pour prendre des décisions éclairées dans le monde des affaires."
+    },
+    {
+        "category": "Informations sur LIG-5.pdf - Descriptions des cours et de leurs caractéristiques**",
+        "question": "Qu'est-ce que l'introduction au Big data et Cloud (UEF520) ?",
+        "answer": "L'introduction au Big data et Cloud est un cours qui enseigne aux étudiants les principes de la gestion du Big data et de l'infrastructure cloud, permettant de développer des compétences en informatique et gestion."
+    },
+    {
+        "category": "Informations sur LIG-6.pdf - Voici les catégories pertinentes extractées du texte, accompagnées de questions et de réponses utiles pour les étudiants :",
+        "question": "Question : Comment sont calculés les crédits accordés par l'IHEC ?",
+        "answer": "Les crédits sont calculés en fonction du volume horaire en présentiel, du nombre de cours et de la modalité d'évaluation. Les coefficients spécifiques à chaque cours sont également pris en compte."
+    },
+    {
+        "category": "Informations sur LIG-6.pdf - Voici les catégories pertinentes extractées du texte, accompagnées de questions et de réponses utiles pour les étudiants :",
+        "question": "Question : Quelles sont les différentes formes de travail (cours, TD, TP, projet) qui contribuent aux crédits ?",
+        "answer": "Les formes de travail mentionnées incluent les cours, les travaux dirigés (TD), les travaux pratiques (TP), et le projet de fin d'études."
+    },
+    {
+        "category": "Informations sur LIG-6.pdf - Voici les catégories pertinentes extractées du texte, accompagnées de questions et de réponses utiles pour les étudiants :",
+        "question": "Question : Comment fonctionne l'évaluation dans le cadre du contrôle continu ?",
+        "answer": "Le contrôle continu implique une évaluation régulière des progrès des étudiants, qui contribue aux crédits attribués. La modalité d’évaluation spécifique est mentionnée à cet effet."
+    },
+    {
+        "category": "Informations sur LIG-6.pdf - Voici les catégories pertinentes extractées du texte, accompagnées de questions et de réponses utiles pour les étudiants :",
+        "question": "Question : Qu'est-ce que l'UE et comment est-elle équilibrée ?",
+        "answer": "L'UE désigne le total des crédits attribués par un cours ou une unité académique. Elle peut être équilibrée en fonction de la répartition du volume horaire en présentiel, du nombre de cours et de la modalité d'évaluation."
+    }
+]
