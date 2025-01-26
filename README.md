@@ -111,11 +111,7 @@ This project is a comprehensive pipeline for scraping, processing, and structuri
    - `faiss`
    - `ollama`
 
-### Installation
-Install dependencies using:
-```bash
-pip install -r requirements.txt
-```
+
 
 ---
 
@@ -137,7 +133,4 @@ python main.py
 5. **Transformed Data**: Final structured JSON with categories.
 
 ---
-
-## Author
-Chedly - A creative AI enthusiast pushing boundaries in automation and data processing.
 
